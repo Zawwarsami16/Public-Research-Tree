@@ -1,38 +1,36 @@
-# Research Universe — Public Research
+# Research · Long-Term Vision
 
-**Independent research across artificial agency, philosophy, cosmology, security, warfare, and personal autonomous intelligence.**
+**Public research by Zawwar Sami**
 
-My research often crosses the boundaries between technical systems and philosophical questions. This archive brings the public work into one place: research worlds, selected complete manuscripts, and direct links to original publication records.
+This archive brings my publicly released work into one place: research worlds, complete papers where available, original publication records, and a dedicated discussion for every listed paper.
 
-The [A–Z Research Universe](https://zawwarsami.com/research) is the primary map. Only worlds already revealed there appear here. A research direction is not necessarily a published result, and a manuscript or preprint is not presented as peer reviewed.
+It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my website. Only publicly revealed research worlds appear here. Planned areas are distinguished from published work; manuscript and preprint are not labels of journal peer review.
 
-## Worlds
+## Explore
 
-| | World | Current record |
-|:--:|---|---|
-| **[A](A/)** | Artificial Agency | Public A-series papers and selected manuscripts |
-| **[C](C/)** | Cosmology | Research direction |
-| **[P](P/)** | Personhood & Philosophy of Mind | Public philosophical preprint |
-| **[S](S/)** | Security & Adversarial Systems | Research direction |
-| **[W](W/)** | Weapons, Warfare & Defence | Long-term research direction |
-| **[Z](Z/)** | ZAI | Public introductory preprint |
-
-## Selected editions
-
-| Work | Read | Publication record |
+| World | Focus | Papers |
 |---|---|---|
-| **[A7 — Operational Will](A/A7/)** | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Zenodo](https://zenodo.org/records/23287842) · [PhilPapers](https://philpapers.org/rec/SAMOWC) |
-| **[A8 — From Knowing to Doing](A/A8/)** | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Zenodo](https://zenodo.org/records/23287948) · [PhilPapers](https://philpapers.org/rec/SAMFKT-2) |
-| **[Z1 — Who Is ZAI?](Z/Z1/)** | [PDF](Z/Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) | [Zenodo](https://zenodo.org/records/23288028) · [PhilPapers](https://philpapers.org/rec/SAMWIZ) |
+| [**A** — Artificial Agency](A/) | Memory, identity, agency and action | A1–A8 |
+| [**C** — Cosmology](C/) | The universe, foundations and origins | Research direction |
+| [**P** — Personhood & Philosophy of Mind](P/) | Embodiment, identity and mind | [The Person Before the Split](P/The-Person-Before-the-Split/) |
+| [**S** — Security & Adversarial Systems](S/) | Security and systems trust | Research direction |
+| [**W** — Weapons, Warfare & Defence](W/) | Technology, defence and human consequences | Research direction |
+| [**Z** — ZAI](Z/) | Development of personal autonomous intelligence | [Who Is ZAI?](Z/Z1/) |
 
-Other publicly listed works remain available through the [writing catalogue](https://zawwarsami.com/writing) and the relevant world folders. I do not mirror every paper here.
+## Selected reading
 
-## Reading, critique, and source integrity
+| Work | Paper | Discuss |
+|---|---|---|
+| [**A7 — Operational Will**](A/A7/) | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Research thread #7](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/7) |
+| [**A8 — From Knowing to Doing**](A/A8/) | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Research thread #8](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/8) |
+| [**Z1 — Who Is ZAI?**](Z/Z1/) | [PDF](Z/Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) | [Research thread #10](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/10) |
 
-I welcome specific technical or philosophical criticism: a counterexample, an assumption worth testing, a contradiction in the argument, or a reproducible experiment.
+The [A-series](A/) also includes its other released manuscripts and preprints, each with an individual reading folder and discussion. Visit a paper's folder to find its exact version, original sources, and open question.
 
-Selected papers have dedicated discussion threads under this repository's Issues tab, linked from their folders. The [broader continuity discussion](https://github.com/anteroom-studio/agi-field-notes/issues/1) remains open in Anteroom Studio's AGI Field Notes. For discussion of agent memory and attribution, see [the memory architecture review](https://github.com/Zawwarsami16/zai-memory-hub/issues/17); for a testable seven-engine methodology question, see [ZAI Genesis's research challenge](https://github.com/anteroom-studio/ZAI-Genesis/issues/1).
+## Contribute a counterexample
 
-Selected PDFs here preserve the original published files. Zenodo, PhilPapers, and the [website's individual entries](https://zawwarsami.com/writing) are the authoritative bibliographic references; this archive does not imply journal peer review or independently validated experiments.
+**[Browse all research discussions](../../issues)** or follow the discussion link in a paper's folder. I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail.
 
-[**Long-Term Vision**](https://zawwarsami.com/research) · [**Writing & Research**](https://zawwarsami.com/writing) · [**ORCID**](https://orcid.org/0009-0004-5819-3017)
+For citation, use the individual paper's Zenodo, PhilPapers, or [official website record](https://zawwarsami.com/writing). The PDFs here are versioned copies, not separate journal publications.
+
+[Long-Term Vision](https://zawwarsami.com/research) · [Writing catalogue](https://zawwarsami.com/writing) · [ORCID](https://orcid.org/0009-0004-5819-3017)

@@ -29,7 +29,7 @@ The [A-series](A/) also includes its other released manuscripts and preprints, e
 
 ## Contribute a counterexample
 
-**[Browse all research discussions](../../issues)** or follow the discussion link in a paper's folder. I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail.
+**[Browse all research discussions](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues)** or follow the discussion link in a paper's folder. I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail.
 
 For citation, use the individual paper's Zenodo, PhilPapers, or [official website record](https://zawwarsami.com/writing). The PDFs here are versioned copies, not separate journal publications.
 

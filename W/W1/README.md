@@ -9,7 +9,8 @@ A finite construction holds equipment, qualified-personnel and infrastructure av
 
 ## Read and verify
 
-- [**Read the original 18-page PDF**](https://zawwarsami.com/api/papers/w1)
+- [**Read the original 18-page PDF (this repository)**](Zawwar-Sami-Weapons-as-Systems-W1.pdf)
+- [Read the PDF on the official website](https://zawwarsami.com/papers/Zawwar-Sami-W1-Weapons-as-Systems-v1.0.pdf)
 - [Zenodo archive and deposit record](https://zenodo.org/records/23359788)
 - [Official research page](https://zawwarsami.com/writing/weapons-as-systems)
 - [Long-Term Vision — W Series Book I](https://zawwarsami.com/research#W)

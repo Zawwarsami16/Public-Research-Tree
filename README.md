@@ -36,7 +36,7 @@ A single counterexample or a reproducible test is enough to start. [**How to rev
 | [**A7 — Operational Will**](A/A7/) | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Research thread #7](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7) |
 | [**A8 — From Knowing to Doing**](A/A8/) | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Research thread #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) |
 | [**Z1 — Who Is ZAI?**](Z/Z1/) | [PDF](Z/Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) | [Research thread #10](https://github.com/Zawwarsami16/Public-Research-Tree/issues/10) |
-| [**W1 — Weapons as Systems**](W/W1/) | [Read full PDF](https://zawwarsami.com/api/papers/w1) | [Research thread #11](https://github.com/Zawwarsami16/Public-Research-Tree/issues/11) |
+| [**W1 — Weapons as Systems**](W/W1/) | [PDF](W/W1/Zawwar-Sami-Weapons-as-Systems-W1.pdf) | [Research thread #11](https://github.com/Zawwarsami16/Public-Research-Tree/issues/11) |
 
 The [A-series](A/) also includes its other released manuscripts and preprints, each with an individual reading folder and discussion. Visit a paper's folder to find its exact version, original sources, and open question.
 

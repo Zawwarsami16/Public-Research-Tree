@@ -8,6 +8,6 @@ This philosophical inquiry asks whether personal identity should be understood f
 
 [**Full paper (PDF)**](Zawwar-Sami-The-Person-Before-the-Split.pdf) · [Official page](https://zawwarsami.com/writing/the-person-before-the-split) · [Zenodo](https://zenodo.org/records/23127396) · [PhilPapers](https://philpapers.org/rec/SAMTPB)
 
-[**Open the paper discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/9) — objections, competing interpretations, and close readings welcome.
+[**Open the paper discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/9) — objections, competing interpretations, and close readings welcome.
 
 [← Personhood & Philosophy of Mind](../)

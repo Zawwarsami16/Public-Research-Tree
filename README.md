@@ -21,15 +21,15 @@ It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my 
 
 | Work | Paper | Discuss |
 |---|---|---|
-| [**A7 — Operational Will**](A/A7/) | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Research thread #7](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/7) |
-| [**A8 — From Knowing to Doing**](A/A8/) | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Research thread #8](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/8) |
-| [**Z1 — Who Is ZAI?**](Z/Z1/) | [PDF](Z/Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) | [Research thread #10](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/10) |
+| [**A7 — Operational Will**](A/A7/) | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Research thread #7](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7) |
+| [**A8 — From Knowing to Doing**](A/A8/) | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Research thread #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) |
+| [**Z1 — Who Is ZAI?**](Z/Z1/) | [PDF](Z/Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) | [Research thread #10](https://github.com/Zawwarsami16/Public-Research-Tree/issues/10) |
 
 The [A-series](A/) also includes its other released manuscripts and preprints, each with an individual reading folder and discussion. Visit a paper's folder to find its exact version, original sources, and open question.
 
 ## Contribute a counterexample
 
-**[Browse all research discussions](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues)** or follow the discussion link in a paper's folder. I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail.
+**[Browse all research discussions](https://github.com/Zawwarsami16/Public-Research-Tree/issues)** or follow the discussion link in a paper's folder. I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail.
 
 For citation, use the individual paper's Zenodo, PhilPapers, or [official website record](https://zawwarsami.com/writing). The PDFs here are versioned copies, not separate journal publications.
 

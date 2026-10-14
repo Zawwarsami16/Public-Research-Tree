@@ -10,6 +10,6 @@ This is an introductory design history of ZAI: why it was built, how its infrast
 
 **For readers:** Which evidence would be most useful for evaluating continuity and autonomy across system changes?
 
-[**Open the ZAI research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/10)
+[**Open the ZAI research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/10)
 
 [← ZAI](../)

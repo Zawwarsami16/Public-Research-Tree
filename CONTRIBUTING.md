@@ -1,6 +1,6 @@
 # Research discussions
 
-This archive is for reading and critical exchange. The [Issues](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues) page contains a dedicated thread for each publicly listed paper.
+This archive is for reading and critical exchange. The [Issues](https://github.com/Zawwarsami16/Public-Research-Tree/issues) page contains a dedicated thread for each publicly listed paper.
 
 A useful contribution identifies the **paper and passage**, gives the **objection or proposed test**, and explains what finding would change the conclusion. Corrections to citation metadata, broken links, and verified reproduction failures are equally welcome.
 

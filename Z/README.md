@@ -8,6 +8,6 @@ ZAI — Zawwar Autonomous Intelligence — is a research project. [Anteroom Stud
 
 [**Z1 — Who Is ZAI?**](Z1/) · Preprint v1.1
 
-[Read PDF](Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) · [Zenodo](https://zenodo.org/records/23288028) · [PhilPapers](https://philpapers.org/rec/SAMWIZ) · [Discuss](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/10)
+[Read PDF](Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) · [Zenodo](https://zenodo.org/records/23288028) · [PhilPapers](https://philpapers.org/rec/SAMWIZ) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/10)
 
 [← Research Universe](../)

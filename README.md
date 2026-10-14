@@ -6,6 +6,18 @@ This archive brings my publicly released work into one place: research worlds, c
 
 It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my website. Only publicly revealed research worlds appear here. Planned areas are distinguished from published work; manuscript and preprint are not labels of journal peer review.
 
+## Start with a question
+
+You do not need to read the whole archive before joining a discussion. Three starting points:
+
+| If you study… | Begin with | Question worth testing |
+|---|---|---|
+| **AI agents and tool use** | [A8 — From Knowing to Doing](A/A8/) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) | What evidence distinguishes a completed action from an agent's report of success? |
+| **Long-term memory and identity** | [A5 — Persistent State and Becoming](A/A5/) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5) | When do retained records become an operational history that changes future decisions? |
+| **Philosophy of mind** | [The Person Before the Split](P/The-Person-Before-the-Split/) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/9) | What is missed when personal identity is described independently of the living body? |
+
+A single counterexample or a reproducible test is enough to start. [**How to review a paper in five minutes**](docs/READING_AND_REVIEW.md).
+
 ## Explore
 
 | World | Focus | Papers |

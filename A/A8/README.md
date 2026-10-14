@@ -8,6 +8,10 @@ When is an attempted tool action evidence of an actual, independently verifiable
 
 [**Full paper (PDF)**](Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) · [Official page](https://zawwarsami.com/writing/from-knowing-to-doing) · [Zenodo](https://zenodo.org/records/23287948) · [PhilPapers](https://philpapers.org/rec/SAMFKT-2)
 
+## A small test case
+
+Suppose an agent reports a successful task. The tool existed, its request was sent, and the API acknowledged receipt—but no independent check shows that the requested change occurred. Which claim is justified: *available*, *attempted*, *accepted*, or *completed*? What extra evidence would move it from one category to the next?
+
 ## Discuss
 
 [**Open the A8 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8)

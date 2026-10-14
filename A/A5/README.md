@@ -8,6 +8,10 @@ When do saved records become a usable operational history rather than an archive
 
 [**Full paper (PDF)**](Persistent-State-and-Becoming-v1.5.pdf) · [Official page](https://zawwarsami.com/writing/persistent-state-and-becoming) · [Zenodo](https://zenodo.org/records/23221085) · [PhilPapers](https://philpapers.org/rec/SAMPSA-2)
 
+## A small test case
+
+Two archives contain the same final sentence, “use configuration B.” In the first, B was approved. In the second, B was later revoked, but the revision was lost. Would retrieving the sentence alone be enough to act correctly? What event relationships must survive?
+
 ## Discuss
 
 [**Open the A5 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5)

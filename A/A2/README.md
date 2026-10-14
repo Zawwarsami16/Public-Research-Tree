@@ -10,7 +10,7 @@ Which observable decisions establish continuity when the underlying reasoning mo
 
 ## Discuss
 
-[**Open the A2 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/2)
+[**Open the A2 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/2)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

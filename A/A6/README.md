@@ -10,7 +10,7 @@ How could decision-time orientation across model changes be tested without confu
 
 ## Discuss
 
-[**Open the A6 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/6)
+[**Open the A6 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/6)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

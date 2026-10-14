@@ -10,7 +10,7 @@ What is the smallest reproducible architecture test for recovering unfinished wo
 
 ## Discuss
 
-[**Open the A3 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/3)
+[**Open the A3 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/3)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

@@ -10,7 +10,7 @@ When do saved records become a usable operational history rather than an archive
 
 ## Discuss
 
-[**Open the A5 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/5)
+[**Open the A5 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

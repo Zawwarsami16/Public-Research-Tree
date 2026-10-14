@@ -10,7 +10,7 @@ When is an attempted tool action evidence of an actual, independently verifiable
 
 ## Discuss
 
-[**Open the A8 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/8)
+[**Open the A8 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

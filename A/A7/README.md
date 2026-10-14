@@ -10,7 +10,7 @@ How should an agent reconsider, initiate or deliberately defer a legitimate unfi
 
 ## Discuss
 
-[**Open the A7 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/7)
+[**Open the A7 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

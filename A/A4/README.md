@@ -10,7 +10,7 @@ Where is the practical boundary between model knowledge and deployed, authorized
 
 ## Discuss
 
-[**Open the A4 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/4)
+[**Open the A4 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/4)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

@@ -10,7 +10,7 @@ When does persistent memory justify treating a personal AI as continuing rather 
 
 ## Discuss
 
-[**Open the A1 research discussion**](https://github.com/Zawwarsami16/Reseach-long-term-vision-public/issues/1)
+[**Open the A1 research discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/issues/1)
 
 I welcome a specific counterexample, a literature comparison, or a falsifiable test of the argument. You can also identify a passage where the claim should be stated more precisely.
 

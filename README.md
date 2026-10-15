@@ -6,6 +6,8 @@ This archive brings my publicly released work into one place: research worlds, c
 
 It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my website. Only publicly revealed research worlds appear here. Planned areas are distinguished from published work; manuscript and preprint are not labels of journal peer review.
 
+**Join [GitHub Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions)** for cross-paper questions, research ideas, interpretation and collaboration. For a critique tied to one manuscript, use its dedicated [research issue](https://github.com/Zawwarsami16/Public-Research-Tree/issues) so the evidence and corrections stay connected to that paper.
+
 ## Start with a question
 
 You do not need to read the whole archive before joining a discussion. Three starting points:
@@ -40,9 +42,11 @@ A single counterexample or a reproducible test is enough to start. [**How to rev
 
 The [A-series](A/) also includes its other released manuscripts and preprints, each with an individual reading folder and discussion. Visit a paper's folder to find its exact version, original sources, and open question.
 
-## Contribute a counterexample
+## Discuss, challenge, and test
 
-**[Browse all research discussions](https://github.com/Zawwarsami16/Public-Research-Tree/issues)** or follow the discussion link in a paper's folder. I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail.
+[**Start a community discussion**](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) to connect ideas across papers, ask a broader research question or suggest collaboration. For feedback on a specific argument, [browse the paper-specific research threads](https://github.com/Zawwarsami16/Public-Research-Tree/issues) or use the link in that paper's folder.
+
+I am interested in disagreements that identify a premise, compare a competing account, or propose a test that could fail. Brief counterexamples and negative results are welcome.
 
 For citation, use the individual paper's Zenodo, PhilPapers, or [official website record](https://zawwarsami.com/writing). The PDFs here are versioned copies, not separate journal publications.
 

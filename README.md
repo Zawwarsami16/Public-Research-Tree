@@ -6,7 +6,7 @@ This archive brings my publicly released work into one place: research worlds, c
 
 It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my website. Only publicly revealed research worlds appear here. Planned areas are distinguished from published work; manuscript and preprint are not labels of journal peer review.
 
-**Join [GitHub Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions)** for cross-paper questions, research ideas, interpretation and collaboration. For a critique tied to one manuscript, use its dedicated [research issue](https://github.com/Zawwarsami16/Public-Research-Tree/issues) so the evidence and corrections stay connected to that paper.
+**[Join Public Research Tree Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions).** Start with the pinned welcome post, or choose one of the open **Q&A** conversations on A8, A5 and W1. Questions, test cases and well-founded disagreements are welcome. Each Q&A links to its paper-specific issue for detailed evidence and corrections.
 
 ## Start with a question
 
@@ -14,9 +14,10 @@ You do not need to read the whole archive before joining a discussion. Three sta
 
 | If you study… | Begin with | Question worth testing |
 |---|---|---|
-| **AI agents and tool use** | [A8 — From Knowing to Doing](A/A8/) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) | What evidence distinguishes a completed action from an agent's report of success? |
-| **Long-term memory and identity** | [A5 — Persistent State and Becoming](A/A5/) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5) | When do retained records become an operational history that changes future decisions? |
-| **Philosophy of mind** | [The Person Before the Split](P/The-Person-Before-the-Split/) · [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/9) | What is missed when personal identity is described independently of the living body? |
+| **AI agents and tool use** | [A8 — From Knowing to Doing](A/A8/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) | What evidence distinguishes a completed action from an agent's report of success? |
+| **Long-term memory and identity** | [A5 — Persistent State and Becoming](A/A5/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #5](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5) | When do retained records become an operational history that changes future decisions? |
+| **Systems engineering and capability** | [W1 — Weapons as Systems](W/W1/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #11](https://github.com/Zawwarsami16/Public-Research-Tree/issues/11) | What does component availability actually tell us about operational capability? |
+| **Philosophy of mind** | [The Person Before the Split](P/The-Person-Before-the-Split/) · [Paper issue #9](https://github.com/Zawwarsami16/Public-Research-Tree/issues/9) | What is missed when personal identity is described independently of the living body? |
 
 A single counterexample or a reproducible test is enough to start. [**How to review a paper in five minutes**](docs/READING_AND_REVIEW.md).
 

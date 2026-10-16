@@ -14,6 +14,7 @@ A series of public writings on artificial agents as continuing systems rather th
 | **[A6](A6/)** | The Identity Kernel | Preprint v1.6 | [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/6) |
 | **[A7](A7/)** | Operational Will | Preprint v1.8 | [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7) |
 | **[A8](A8/)** | From Knowing to Doing | Preprint v1.8 | [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) |
+| **[A9](A9/)** | The Body of Software | Preprint v1.9 | [Discuss](https://github.com/Zawwarsami16/Public-Research-Tree/issues/17) |
 
 Each paper has a separate reading folder with its original publication records. PDFs are mirrored only where their source version is available and verified.
 

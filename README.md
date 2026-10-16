@@ -6,14 +6,15 @@ This archive brings my publicly released work into one place: research worlds, c
 
 It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my website. Only publicly revealed research worlds appear here. Planned areas are distinguished from published work; manuscript and preprint are not labels of journal peer review.
 
-**[Join Public Research Tree Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions).** Start with the pinned welcome post, or choose one of the open **Q&A** conversations on A8, A5 and W1. Questions, test cases and well-founded disagreements are welcome. Each Q&A links to its paper-specific issue for detailed evidence and corrections.
+**[Join Public Research Tree Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions).** Start with the pinned welcome post, or choose an open discussion on A9, A8, A5 or W1. Questions, test cases and well-founded disagreements are welcome. Each Q&A links to its paper-specific issue for detailed evidence and corrections.
 
 ## Start with a question
 
-You do not need to read the whole archive before joining a discussion. Three starting points:
+You do not need to read the whole archive before joining a discussion. Four starting points:
 
 | If you study… | Begin with | Question worth testing |
 |---|---|---|
+| **Software embodiment and model replacement** | [A9 — The Body of Software](A/A9/) · [Paper issue #17](https://github.com/Zawwarsami16/Public-Research-Tree/issues/17) | When a controller improves, how can we tell newly exercised capability from a previously untested authority boundary? |
 | **AI agents and tool use** | [A8 — From Knowing to Doing](A/A8/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) | What evidence distinguishes a completed action from an agent's report of success? |
 | **Long-term memory and identity** | [A5 — Persistent State and Becoming](A/A5/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #5](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5) | When do retained records become an operational history that changes future decisions? |
 | **Systems engineering and capability** | [W1 — Weapons as Systems](W/W1/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #11](https://github.com/Zawwarsami16/Public-Research-Tree/issues/11) | What does component availability actually tell us about operational capability? |
@@ -25,7 +26,7 @@ A single counterexample or a reproducible test is enough to start. [**How to rev
 
 | World | Focus | Papers |
 |---|---|---|
-| [**A** — Artificial Agency](A/) | Memory, identity, agency and action | A1–A8 |
+| [**A** — Artificial Agency](A/) | Memory, identity, agency and action | A1–A9 |
 | [**C** — Cosmology](C/) | The universe, foundations and origins | Research direction |
 | [**P** — Personhood & Philosophy of Mind](P/) | Embodiment, identity and mind | [The Person Before the Split](P/The-Person-Before-the-Split/) |
 | [**S** — Security & Adversarial Systems](S/) | Security and systems trust | Research direction |
@@ -38,6 +39,7 @@ A single counterexample or a reproducible test is enough to start. [**How to rev
 |---|---|---|
 | [**A7 — Operational Will**](A/A7/) | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Research thread #7](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7) |
 | [**A8 — From Knowing to Doing**](A/A8/) | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Research thread #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) |
+| [**A9 — The Body of Software**](A/A9/) | [PDF](A/A9/Zawwar-Sami-The-Body-of-Software-A9.pdf) | [Research thread #17](https://github.com/Zawwarsami16/Public-Research-Tree/issues/17) |
 | [**Z1 — Who Is ZAI?**](Z/Z1/) | [PDF](Z/Z1/Who-Is-ZAI-Zawwar-Sami-v1.1.pdf) | [Research thread #10](https://github.com/Zawwarsami16/Public-Research-Tree/issues/10) |
 | [**W1 — Weapons as Systems**](W/W1/) | [PDF](W/W1/Zawwar-Sami-Weapons-as-Systems-W1.pdf) | [Research thread #11](https://github.com/Zawwarsami16/Public-Research-Tree/issues/11) |
 

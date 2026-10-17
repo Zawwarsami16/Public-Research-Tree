@@ -6,7 +6,7 @@ This archive brings my publicly released work into one place: research worlds, c
 
 It follows the [A–Z Research Universe](https://zawwarsami.com/research) on my website. Only publicly revealed research worlds appear here. Planned areas are distinguished from published work; manuscript and preprint are not labels of journal peer review.
 
-**[Join Public Research Tree Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions).** Start with the pinned welcome post, or choose an open discussion on W2, A9, A8, A5 or W1. Questions, test cases and well-founded disagreements are welcome. Each Q&A links to its paper-specific issue for detailed evidence and corrections.
+**[Join Public Research Tree Discussions](https://github.com/Zawwarsami16/Public-Research-Tree/discussions).** Start with the pinned welcome post, or choose an open discussion on S1, W2, A9, A8, A5 or W1. Questions, test cases and well-founded disagreements are welcome. Each Q&A links to its paper-specific issue for detailed evidence and corrections.
 
 ## Start with a question
 
@@ -14,6 +14,7 @@ You do not need to read the whole archive before joining a discussion. A few sta
 
 | If you study… | Begin with | Question worth testing |
 |---|---|---|
+| **Incident recovery and credential revocation** | [S1 — When Revocation Does Not End Access](S/S1/) · [Q&A #22](https://github.com/Zawwarsami16/Public-Research-Tree/discussions/22) | What can recreate authority after a successful repair? |
 | **Software embodiment and model replacement** | [A9 — The Body of Software](A/A9/) · [Paper issue #17](https://github.com/Zawwarsami16/Public-Research-Tree/issues/17) | When a controller improves, how can we tell newly exercised capability from a previously untested authority boundary? |
 | **AI agents and tool use** | [A8 — From Knowing to Doing](A/A8/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) | What evidence distinguishes a completed action from an agent's report of success? |
 | **Long-term memory and identity** | [A5 — Persistent State and Becoming](A/A5/) · [Q&A board](https://github.com/Zawwarsami16/Public-Research-Tree/discussions) · [Paper issue #5](https://github.com/Zawwarsami16/Public-Research-Tree/issues/5) | When do retained records become an operational history that changes future decisions? |
@@ -30,7 +31,7 @@ A single counterexample or a reproducible test is enough to start. [**How to rev
 | [**A** — Artificial Agency](A/) | Memory, identity, agency and action | A1–A9 |
 | [**C** — Cosmology](C/) | The universe, foundations and origins | Research direction |
 | [**P** — Personhood & Philosophy of Mind](P/) | Embodiment, identity and mind | [The Person Before the Split](P/The-Person-Before-the-Split/) |
-| [**S** — Security & Adversarial Systems](S/) | Security and systems trust | Research direction |
+| [**S** — Security & Adversarial Systems](S/) | Security and systems trust | [S1 — Revocation and recovery](S/S1/) · Book I pathway |
 | [**W** — Weapons, Warfare & Defence](W/) | Technology, defence and human consequences | [W1](W/W1/) · [W2 — Development Evidence](W/W2/) · Book I pathway |
 | [**Z** — ZAI](Z/) | Development of personal autonomous intelligence | [Who Is ZAI?](Z/Z1/) |
 
@@ -38,6 +39,7 @@ A single counterexample or a reproducible test is enough to start. [**How to rev
 
 | Work | Paper | Discuss |
 |---|---|---|
+| [**S1 — When Revocation Does Not End Access**](S/S1/) | [PDF](S/S1/Zawwar-Sami-S1-Temporal-Repair-Dependencies-v1.pdf) · [Code](S/S1/S1-v1-reproducibility.zip) | [Q&A #22](https://github.com/Zawwarsami16/Public-Research-Tree/discussions/22) |
 | [**A7 — Operational Will**](A/A7/) | [PDF](A/A7/Zawwar-Sami-A7-Operational-Will-v1.8.pdf) | [Research thread #7](https://github.com/Zawwarsami16/Public-Research-Tree/issues/7) |
 | [**A8 — From Knowing to Doing**](A/A8/) | [PDF](A/A8/Zawwar-Sami-A8-From-Knowing-to-Doing-v1.8.pdf) | [Research thread #8](https://github.com/Zawwarsami16/Public-Research-Tree/issues/8) |
 | [**A9 — The Body of Software**](A/A9/) | [PDF](A/A9/Zawwar-Sami-The-Body-of-Software-A9.pdf) | [Research thread #17](https://github.com/Zawwarsami16/Public-Research-Tree/issues/17) |

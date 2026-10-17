@@ -2,6 +2,14 @@
 
 **Digital security, systems trust, vulnerabilities, adversarial behavior, and defensive design.**
 
-This world connects applied cybersecurity with the study of how systems fail under pressure. No S-series paper is currently listed in the public writing catalogue. Engineering repositories are separate from this research archive.
+This world examines how systems fail under pressure and what evidence is needed to assess recovery. S1–S12 form the first research pathway, followed by a future standalone Book I. Further paper details appear as work is released.
+
+## Released work
+
+| Paper | Focus | Read and discuss |
+|---|---|---|
+| **S1 — When Revocation Does Not End Access** | Temporal repair dependencies in application compromise | [Paper, code and sources](S1/) · [Q&A #22](https://github.com/Zawwarsami16/Public-Research-Tree/discussions/22) |
+
+[Long-Term Vision — S](https://zawwarsami.com/research#S) · [Writing catalogue](https://zawwarsami.com/writing)
 
 [← Research Universe](../)
